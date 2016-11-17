@@ -1,2 +1,2 @@
 # Barbas
-SMS serveur based on Raspberry pi with the shields from CookingHacks
+SMS server based on Raspberry pi with the shields from CookingHacks
