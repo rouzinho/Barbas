@@ -1,0 +1,4 @@
+bras
+main
+taille
+poids
